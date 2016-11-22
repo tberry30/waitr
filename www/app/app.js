@@ -34,7 +34,7 @@
       restaurant: 'restaurant'
     })
 
-    .constant('SERVER_URL', 'http://waitr.timberry.io')
+    .constant('SERVER_URL', 'https://waitr.timberry.io')
     // .constant('SERVER_URL', 'http://localhost:2902')
 
 
