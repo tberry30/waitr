@@ -22,7 +22,7 @@
     "gulp-util": "^2.2.14"
   },
   "scripts": {
-    "start": "nodemon server/server.js"
+    "start": "node server/server.js"
   },
   "cordovaPlugins": [
     "cordova-plugin-device",
