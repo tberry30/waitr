@@ -256,6 +256,9 @@ font-size: 90%;
   font-family: 'Lusitana', serif;
   font-weight: 700;
 }
+.loginRegFooter a:hover {
+  cursor: pointer;
+}
 
 div.loginReg label {
   position: relative;
